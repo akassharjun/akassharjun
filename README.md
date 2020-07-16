@@ -1,4 +1,4 @@
-[Image](https://raw.githubusercontent.com/akassharjun/akassharjun/master/sample.png)
+![BANNER](https://raw.githubusercontent.com/akassharjun/akassharjun/master/sample.png)
 <!--
 **akassharjun/akassharjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
