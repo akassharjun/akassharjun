@@ -3,12 +3,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
+
+Hi everyone! My name is Akassharjun Shanmugarajah! I'm a 4th year Computer Science undergraduate currently working part time as a Back End Developer.
+
+### Interests 
+- Back End Development
+- UI Design
+- Cybersecurity
+
+### Skills
+- Golang
+- NodeJS
+- Java
+- Flutter
